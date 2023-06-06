@@ -4,7 +4,7 @@
   <img width="700" height="250" src="https://matthieuskrzypczak.fr/images/MATTHIEUSKRZYPCZAK.png">  
 </h3>
 
-## Hello, I am a full-stack developper. My name is Matthieu, i from France, specifically from the Provence-Alpes-Côte d'Azur region.
+Hello, I am a full-stack developper. My name is Matthieu, i from France, specifically from the Provence-Alpes-Côte d'Azur region.
 <p>
   <img align="right" width="100" height="100" src="https://matthieuskrzypczak.fr/images/chocobo.gif">  
 </p>

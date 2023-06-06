@@ -7,6 +7,7 @@
 My name is Matthieu, i from France, specifically from the Provence-Alpes-Côte d'Azur region.
   
 <br>
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/matthieu-skrzypczak/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

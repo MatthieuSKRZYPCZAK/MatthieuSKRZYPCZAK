@@ -15,9 +15,9 @@ My name is Matthieu, i from France, specifically from the Provence-Alpes-Côte d
   <a href="https://twitter.com/MaTTythonXesh">
     <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://matthieu-skrz.netlify.app/">
+<!--   <a href="https://matthieu-skrz.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
-  </a>
+  </a> -->
 </div>
 <br>
 

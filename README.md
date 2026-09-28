@@ -1,108 +1,146 @@
-<h2 align="center">
-  <img width="700" height="250" src="./public/MATTHIEUSKRZYPCZAK.png">  
-</h2>
+<div align="center">
+  <img width="700" height="250" src="./public/MATTHIEUSKRZYPCZAK.png" alt="Matthieu Skrzypczak — Software Developer">
 
-<img align="right" width="100" height="100" src="./public/chocobo.gif">  
-<p> Hello, I am a full-stack developper.</p>
-My name is Matthieu, i from France, specifically from the Provence-Alpes-Côte d'Azur region.
-  
-<br>
-<br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/matthieu-skrzypczak/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/MaTTythonXesh">
-    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-<!--   <a href="https://matthieu-skrz.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
-  </a> -->
+  <h1>Hi, I'm Matthieu 👋</h1>
+
+  <h3>Software Developer · Backend · Web · DevOps</h3>
+
+  <p>
+    I design, build and deploy reliable software solutions — from backend services
+    and databases to infrastructure, automation and user-facing applications.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/matthieu-skrzypczak/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://holotaverne.fr">
+      <img src="https://img.shields.io/badge/HoloTaverne-Visit_the_project-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HoloTaverne">
+    </a>
+  </p>
 </div>
-<br>
+
+---
+
+## About me
+
+I am a software developer based in France, with a background in web and mobile development, application design and software engineering.
+
+Working in a small and versatile team has led me to contribute across the entire software lifecycle: technical design, backend and frontend development, database management, testing, deployment, automation, server administration and security.
+
+I enjoy understanding how every part of a system works together and turning ideas into maintainable, production-ready solutions.
+
+---
+
+## Professional stack
+
+### Backend and application development
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly">
+</p>
+
+- REST APIs, business applications and backend services
+- Software architecture and technical design
+- Kotlin Multiplatform and WasmJS applications
+- Automated testing, maintenance and continuous improvement
+- Code review, refactoring and technical documentation
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+- Relational data modelling
+- Query design and optimisation
+- Database integration and administration
+
+### DevOps and infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+</p>
+
+- CI/CD pipelines and deployment automation
+- Docker-based development and production environments
+- Linux VPS administration and maintenance
+- Bash scripting and task automation
+- Monitoring, reliability and security-minded development
+
+### Modern engineering and AI-assisted development
+
+<p>
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-412991?style=flat-square&logo=openai&logoColor=white" alt="AI-assisted development">
+  <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=task&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/Code_Quality-4C1?style=flat-square&logo=sonarqube&logoColor=white" alt="Code quality">
+  <img src="https://img.shields.io/badge/Security-2E7D32?style=flat-square&logo=owasp&logoColor=white" alt="Security">
+</p>
+
+I integrate AI into my professional workflow to improve productivity and software quality while keeping technical decisions and code validation under human control.
+
+- AI-assisted code analysis, debugging and refactoring
+- Test generation and test coverage improvement
+- Technical documentation and knowledge sharing
+- Development workflow and repetitive task automation
+- Code quality, maintainability and security analysis
+- Exploration and validation of technical solutions
+
+### Daily tools
+
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+## Personal stack and projects
+
+Outside of my professional work, I use the same core technologies while also building applications and tools with modern web and scripting ecosystems.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+I use these technologies to create web applications, backend services, automation scripts, development tools and personal experiments.
+
+---
+
+## Featured project — HoloTaverne
+
+### [holotaverne.fr](https://holotaverne.fr)
+
+HoloTaverne is my main personal project, currently under active development.
+
+It is a web portal designed to bring together news, guides and original content covering:
+
+- Gaming
+- Technology
+- Movies and TV series
+- Artificial intelligence
+- Software development
+
+This project gives me the opportunity to work on a complete product: architecture, development, content management, deployment, infrastructure, automation, performance, security and long-term evolution.
+
+> A place where technology, entertainment and curiosity meet.
 
 ---
 
 <div align="center">
-<h1>⚡️ TECHNO ⚡️ <h1>
+  <img width="100" height="100" src="./public/chocobo.gif" alt="Chocobo">
 
-<h2> Langages </h2>
-
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-
-
-<h2> Environnements </h2>
-
-  
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-
-<h2> Frameworks, Platforms & Libraries </h2>
-
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/EJS-E0EFEF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=for-the-badge&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-    <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D"/>
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-    
-<h2> ORM </h2>
-
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-
-<h2> Versioning </h2>
-<img src="https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<br>
-
-<h2> Database </h2>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-<h2> Server </h2>
-<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<h2> Operating System </h2>
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-
+  <p><em>Always building. Always improving.</em></p>
 </div>
-
-
----
